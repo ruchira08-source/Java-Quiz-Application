@@ -43,3 +43,15 @@ QUESTION BANK
 The program includes 26 Java multiple-choice questions and selects 10
 for each quiz. It avoids repeating the exact same 10-question set
 immediately within the current application session.
+
+PROJECT DEVELOPED USING
+-----------------------
+Programming Language: Java
+GUI Framework: Java Swing
+IDE: Visual Studio Code
+
+PROJECT PURPOSE
+---------------
+This application is developed as a college
+GUI application project to demonstrate
+Java programming and GUI development skills.
